@@ -48,4 +48,4 @@
 ### 白羊星支持哪些流媒体？
 支持 **Netflix、Hulu、HBO、Disney+、ChatGPT** 等流媒体解锁。
 
-> **白羊星** - 高速稳定的VPN服务，解锁全球内容：[访问官网订阅](https://jump.p6p.net/306)
+> **白羊星** - 高速稳定的VPN服务，解锁全球内容：[访问官网订阅](https://tiao.bid/306)
